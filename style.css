@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+    font-style: italic;
+}
+table{
+    border: 2px solid yellow;
+    background-color: green;
+}
+td{
+    border: 2px solid blue;
+}
+th{
+    border: 2px solid red;
+}
